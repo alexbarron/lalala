@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '3.1.0'
+#lock '3.1.0'
 
 set :application, 'lalala'
 set :repo_url, 'git@github.com:alexbarron/lalala.git'
